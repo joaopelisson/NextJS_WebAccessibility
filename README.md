@@ -1,6 +1,12 @@
 # NextJS_WebAccessibility 👓
 
-#### This project is being developed during the course [@rockeatseat](https://www.rocketseat.com.br/) Accessibility with ReactJS 💡
+#### This project is in **development**, following the course of [@rockeatseat](https://www.rocketseat.com.br/) Accessibility with ReactJS 💡
+
+ℹ _The objective of this project is to work on the issue of accessibility in the development of projects, guaranteeing access to all types of public (speech, visual, auditory, cognitive, neurological or physical impairments, they must be able to understand, navigate and interact and contribute to the web)._
+
+⚠ the line of **development** to be followed is:
+
+develop a page completely outside the accessibility standards, and then bring accessibility to it (implement)
 
 ### ⚡ Main technologies used
 - [NextJS](https://nextjs.org/)
