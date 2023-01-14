@@ -2,6 +2,8 @@
 
 #### This project is being developed during the course [@rockeatseat](https://www.rocketseat.com.br/) Accessibility with ReactJS 💡
 
+ℹ _The objective of this project is to work on the issue of accessibility in the development of projects, guaranteeing access to all types of public (speech, visual, auditory, cognitive, neurological or physical impairments, they must be able to understand, navigate and interact and contribute to the web)._
+
 ### ⚡ Main technologies used
 - [NextJS](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
