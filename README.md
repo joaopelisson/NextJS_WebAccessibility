@@ -17,7 +17,7 @@ develop a page completely outside the accessibility standards, and then bring ac
 These instructions will allow you to get a working copy of the project on your local machine for development and testing purposes. 
 
 ```
-git clone -b develop https://github.com/joaopelisson/ReactJS_IgniteFeed.git
+git clone -b develop https://github.com/joaopelisson/NextJS_WebAccessibility.git
 ```
 
 After cloning run the command:
