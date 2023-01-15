@@ -1,8 +1,8 @@
 *{
   margin: 0;
   padding: 0;
-  border: 'none';
-  box-sizing: 'border-box';
+  border: none;
+  box-sizing: border-box;
 }
 
 body, input, button, textarea, select {
