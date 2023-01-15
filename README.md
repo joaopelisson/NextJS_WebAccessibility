@@ -32,7 +32,7 @@ After cloning run the command:
 ```
 npm install
 #or
-wire installation
+yarn install
 ```
 
 To start the development server:
@@ -40,5 +40,5 @@ To start the development server:
 ```
 npm run dev
 # or
-yarn developer
+yarn dev
 ```
