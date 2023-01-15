@@ -4,6 +4,10 @@
 
 ℹ _The objective of this project is to work on the issue of accessibility in the development of projects, ensuring access to all audiences (speech, visual, auditory, cognitive, neurological or physical impaired, who must be able to understand, navigate and interact and contribute with the web)._
 
+#### [🔥 Click here to view the demo / preview](https://next-js-web-accessibility.vercel.app/)
+_to have an experience of what was dealt with in the project, try to visualize using some of the tools below, or of the same genre_
+
+
 #### 📌 The accessibility scanner was made using the following tools:
 
 - [Axe Accessibility](https://www.deque.com/axe/) | [via dev console](https://www.npmjs.com/package/@axe-core/react)
